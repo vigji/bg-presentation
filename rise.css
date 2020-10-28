@@ -1,0 +1,13 @@
+img[alt="minipic"] { 
+  max-width:  400px; 
+}
+
+body{
+  font-family: Times;
+  font-size: 16pt;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 12pt;
+}
